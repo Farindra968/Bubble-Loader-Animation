@@ -1,5 +1,5 @@
 # Bubble-Loader-Animation
-The Bubble Loader Animation is a simple yet visually appealing loading indicator designed using HTML and CSS. It consists of six circular elements, or "bubbles," that animate in a rhythmic, pulsating manner to create a dynamic loader effect. These bubbles alternate between expanding and contracting sizes, creating a lively and fluid motion that can be used as a loading icon for websites or web applications.
+The <strong>Bubble Loader Animation</strong> is a simple yet visually appealing loading indicator designed using HTML and CSS. It consists of six circular elements, or "bubbles," that animate in a rhythmic, pulsating manner to create a dynamic loader effect. These bubbles alternate between expanding and contracting sizes, creating a lively and fluid motion that can be used as a loading icon for websites or web applications.
 
 Key Features:
 HTML Structure:
