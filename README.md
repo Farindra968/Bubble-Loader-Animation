@@ -4,7 +4,7 @@ The <strong>Bubble Loader Animation</strong> is a simple yet visually appealing 
 <h1>Key Features:</h1>
 <h2>HTML Structure:</h2>
 
-The loader is made up of six div elements, each with class names from .box-1 to .box-6. These represent the individual bubbles.
+<li>The loader is made up of six div elements, each with class names from .box-1 to .box-6. These represent the individual bubbles.</li>
 The div elements are placed within a container div with the class .loader, which ensures proper alignment and positioning.
 CSS Styling:
 
